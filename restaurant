@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mondo Vecchio Pizzeria</title>
+</head>
+
+<body style="background-color:#7e3535">
+  <h1>Mondo Vecchio Pizzeria<h1>  
+  <h3>A pizza joint with old world style</h3>
+<div style="background-color:#C09F80">
+  <h2>Hours</h2>
+    <p>Sunday: 11am-5pm<br>
+            Monday: Closed<br>
+            Tuesday-Wednesday: 11am-9pm<br>
+            Thursday-Saturday: 11am-2am</p>
+  <h2>Contact info</h2> 
+     <p>Address: 312 S. Main St., Fall River, MA</p> 
+     <p>Email: admin@vecchiopizza.com</p>
+     <p>Phone: [Phone number]</p>
+     <p>Website Address: www.vecchiopizza.com</p>
+     
+    <p>http://somersetberkley.org/</p>
+</body>
+</html>
