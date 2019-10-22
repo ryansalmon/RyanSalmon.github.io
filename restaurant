@@ -1,25 +1,30 @@
-
 <!DOCTYPE html>
 <html>
 <head>
   <title>Mondo Vecchio Pizzeria</title>
+  <h1>Mondo Vecchio Pizzeria</h1>
 </head>
 
 <body style="background-color:#7e3535">
-  <h1>Mondo Vecchio Pizzeria<h1>  
-  <h3>A pizza joint with old world style</h3>
+    <h3>A pizza joint with old world style</h3>
+
+<img itemprop="contentURL" srcset="https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg 1x, https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg 1.333x" src="https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg" alt="Pizza, Food, Italian, Baked, Cheese, Crust, Cuisine" style="width: 30%;">
+
 <div style="background-color:#C09F80">
   <h2>Hours</h2>
     <p>Sunday: 11am-5pm<br>
             Monday: Closed<br>
             Tuesday-Wednesday: 11am-9pm<br>
             Thursday-Saturday: 11am-2am</p>
-  <h2>Contact info</h2> 
-     <p>Address: 312 S. Main St., Fall River, MA</p> 
+  <h2>Contact info</h2>
+     <p>Address: 312 S. Main St., Fall River, MA</p>
      <p>Email: admin@vecchiopizza.com</p>
      <p>Phone: [Phone number]</p>
      <p>Website Address: www.vecchiopizza.com</p>
-     
-    <p>http://somersetberkley.org/</p>
+<div style="background-color:#7e3535">
+<p>http://somersetberkley.org</p>
+
+<img itemprop="contentURL" srcset="https://cdn.pixabay.com/photo/2016/04/09/09/22/pizza-1317699_960_720.jpg 1x, https://cdn.pixabay.com/photo/2016/04/09/09/22/pizza-1317699_1280.jpg 1.333x" src="https://cdn.pixabay.com/photo/2016/04/09/09/22/pizza-1317699_960_720.jpg" alt="Pizza, Food, Fast Food, Muzarella, Italian Food" style="width: 30%;">
+
 </body>
 </html>
